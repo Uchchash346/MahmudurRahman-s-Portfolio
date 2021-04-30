@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*--------------------Hire Me Button-------------------*/
+.hire-me-button{    
+    text-decoration: none;
+    font-style: bold;
+    font-weight: 300;
+    padding: 15px 50px;
+    border-radius: 5px;
+    background-color: rgba(255, 128, 99, 1);
+    color: white;
+}
